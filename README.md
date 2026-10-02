@@ -1,2 +1,2 @@
-# Learning-HTML-
+# Learning-HTML
 Getting started with HTML
