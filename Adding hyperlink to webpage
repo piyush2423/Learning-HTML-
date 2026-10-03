@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>This is my website</title>
+    </head>
+    <body>
+        <a href="https://www.google.co.in/index.html"
+        title="Goes to google"
+        target="_blank">
+
+        click me
+    </a>
+
+    <br>
+
+    <a href="index.html"
+    title="Thsi is the lyrics">
+
+    song lyrics
+
+    </a>
+    </body>
+</html>
