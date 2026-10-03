@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>
+        THIS IS MY WEBSITE
+    </title>
+    <body>
+
+        <h1>Periodic table</h1>
+        <a href="https://en.wikipedia.org/wiki/Periodic_table"
+            title="Tells info about periodic table"
+            target="_blank">
+            PERIODIC TABLE 
+        </a>
+        <hr>
+        <h2>PERIODIC TABLE SONG</h2>
+        <video controls
+        height="200" width="400">
+            <source src="preodic table.mp4">
+        </video>
+    </body>
+</head>
+</html>
