@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Table creation
+        </title>
+    </head>
+    <table border="1">
+        <tr align="center" style="background-color: lavender;">
+            <th>MONDAY</th>
+            <th>TUESDAY</th>
+            <th>WEDNESDAY</th>
+            <th>THURSDAY</th>
+            <th>FRIDAY</th>
+            <th>SATURDAY</th>
+            <th>SUNDAY</th>
+        </tr>
+        <tr align="center" style="background-color: azure;">
+            <td>9-7</td>
+            <td>9-7</td>
+            <td>9-7</td>
+            <td>9-7</td>
+            <td>9-7</td>
+            <td>9-4</td>
+            <td>CLOSED</td>
+        </tr>
+    </table>
+</html>
