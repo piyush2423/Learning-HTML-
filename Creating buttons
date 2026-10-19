@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Creating button
+        </title>
+    </head>
+    <a href="https://www.youtube.com/">
+    <button style="color: aqua; background-color: rgb(32, 35, 202); border-radius: 20px;">
+        Click me
+    </button>
+    </a>
+</html>
