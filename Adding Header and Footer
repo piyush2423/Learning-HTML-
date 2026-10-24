@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Creating a header and footer</title>
+</head>
+
+<body>
+    <header style="background-color: aquamarine;">
+        <h1>Welcome to my website</h1>
+        <a href="">Home</a>
+        <a href="">Product</a>
+        <a href="">About us</a>
+        <a href="">Contact us</a>
+        <hr>
+    </header>
+
+    <main>
+        <h4>This is all about that</h4>
+        <image src="images.png"></image>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi iste tempora quidem, assumenda harum
+            labore eveniet id debitis non. Dolore minus perspiciatis quod tenetur consectetur sunt facere aut commodi
+            necessitatibus!</p>
+
+    </main>
+
+    <footer style="background-color:cyan">
+        <hr>
+        Author = Bluewarrior<br>
+        &copy; copyright reserved<br>
+        <a href="hahaha@fake.com">hahaha@fske.com</a>
+
+    </footer>
+</body>
+
+</html>
