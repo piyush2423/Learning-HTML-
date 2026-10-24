@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Starting with CSS</title>
+</head>
+<body style="background-color: black;">
+
+    <h1 style="color: gray;"">This is my website</h1>
+    <p style="color: aqua;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis totam omnis debitis officiis, et laboriosam eligendi exercitationem earum. Enim aspernatur, quaerat consequatur veniam deleniti velit at quisquam! Amet, impedit voluptatum?</p>
+    <p style="color: rgb(24, 124, 211);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis totam omnis debitis officiis, et laboriosam eligendi exercitationem earum. Enim aspernatur, quaerat consequatur veniam deleniti velit at quisquam! Amet, impedit voluptatum?</p>
+    <p style="color: rgb(14, 135, 241);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis totam omnis debitis officiis, et laboriosam eligendi exercitationem earum. Enim aspernatur, quaerat consequatur veniam deleniti velit at quisquam! Amet, impedit voluptatum?</p>
+    <p style="color: rgb(15, 125, 221);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis totam omnis debitis officiis, et laboriosam eligendi exercitationem earum. Enim aspernatur, quaerat consequatur veniam deleniti velit at quisquam! Amet, impedit voluptatum?</p>
+
+</body>
+</html>
